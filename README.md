@@ -1,4 +1,4 @@
-# Functional Programming with Clojure
+# Clojure Student Query
 
 Welcome to the repository for an assignment on Functional Programming with Clojure. This project implements a basic query system in Clojure for managing student, course, and grade information.
 
