@@ -1,0 +1,11 @@
+23001|John Smith|123 Here Street|456-4567
+23002|Sue Jones|43 Rose Court Street|345-7867
+23003|Sue Smith Yuhong|165 Happy Lane|345-4533
+23004|Dan Woo|46 Boose Street|345-9080
+23005|Billy Boo|19 Gomer Court|345-1113
+23006|Tom Jones|4445 Sue Lane|356-7895
+23007|Mohammed Falah|4560 Gaff Road|456-4533
+23008|Tammy Zifa|19 Threp Road|345-4443
+23009|Moo Doo|2 Pizza Place|345-5677
+23010|Sam Bo|456 Dale Place|345-9872
+23011|Mike Faiza|234 Call Road|456-5647

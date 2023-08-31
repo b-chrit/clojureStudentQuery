@@ -1,0 +1,7 @@
+1|COMP|348|3|Principles of Programming Languages
+2|COMP|335|3|Theoretical Computer Science
+3|COMP|232|3|Discrete Math.
+4|COMP|111|1|Seminar 
+5|SOEN|228|2|System Hardware
+6|SOEN|298|2|System Hardware Lab
+7|SOEN|311|1|Seminar SOEN
